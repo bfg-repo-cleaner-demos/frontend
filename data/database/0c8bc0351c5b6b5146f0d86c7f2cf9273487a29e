@@ -1,0 +1,124 @@
+{
+  "response":{
+    "status":"ok",
+    "userTier":"internal",
+    "total":14,
+    "startIndex":1,
+    "pageSize":50,
+    "currentPage":1,
+    "pages":1,
+    "results":[{
+      "id":"business/generalelectric",
+      "type":"keyword",
+      "webTitle":"General Electric",
+      "webUrl":"http://www.theguardian.com/business/generalelectric",
+      "apiUrl":"http://content.guardianapis.com/business/generalelectric",
+      "sectionId":"business",
+      "sectionName":"Business"
+    },{
+      "id":"business/generalmotors",
+      "type":"keyword",
+      "webTitle":"General Motors",
+      "webUrl":"http://www.theguardian.com/business/generalmotors",
+      "apiUrl":"http://content.guardianapis.com/business/generalmotors",
+      "sectionId":"business",
+      "sectionName":"Business"
+    },{
+      "id":"business/domesticgeneralgroup",
+      "type":"keyword",
+      "webTitle":"Domestic & General",
+      "webUrl":"http://www.theguardian.com/business/domesticgeneralgroup",
+      "apiUrl":"http://content.guardianapis.com/business/domesticgeneralgroup",
+      "sectionId":"business",
+      "sectionName":"Business"
+    },{
+      "id":"business/legalandgeneralgroup",
+      "type":"keyword",
+      "webTitle":"Legal and General",
+      "webUrl":"http://www.theguardian.com/business/legalandgeneralgroup",
+      "apiUrl":"http://content.guardianapis.com/business/legalandgeneralgroup",
+      "sectionId":"business",
+      "sectionName":"Business"
+    },{
+      "id":"education/engineeringgeneral",
+      "type":"keyword",
+      "webTitle":"Engineering general",
+      "webUrl":"http://www.theguardian.com/education/engineeringgeneral",
+      "apiUrl":"http://content.guardianapis.com/education/engineeringgeneral",
+      "sectionId":"education",
+      "sectionName":"Education"
+    },{
+      "id":"politics/general-election-2010",
+      "type":"keyword",
+      "webTitle":"General election 2010",
+      "webUrl":"http://www.theguardian.com/politics/general-election-2010",
+      "apiUrl":"http://content.guardianapis.com/politics/general-election-2010",
+      "sectionId":"politics",
+      "sectionName":"Politics"
+    },{
+      "id":"weather/generalsanmartin",
+      "type":"keyword",
+      "webTitle":"General San Martin",
+      "webUrl":"http://www.theguardian.com/weather/generalsanmartin",
+      "apiUrl":"http://content.guardianapis.com/weather/generalsanmartin",
+      "sectionId":"weather",
+      "sectionName":"Weather"
+    },{
+      "id":"uk/general-sir-david-richards",
+      "type":"keyword",
+      "webTitle":"General Sir David Richards",
+      "webUrl":"http://www.theguardian.com/uk/general-sir-david-richards",
+      "apiUrl":"http://content.guardianapis.com/uk/general-sir-david-richards",
+      "sectionId":"uk-news",
+      "sectionName":"UK news"
+    },{
+      "id":"business/dailymailgeneraltrust",
+      "type":"keyword",
+      "webTitle":"Daily Mail & General Trust",
+      "webUrl":"http://www.theguardian.com/business/dailymailgeneraltrust",
+      "apiUrl":"http://content.guardianapis.com/business/dailymailgeneraltrust",
+      "sectionId":"business",
+      "sectionName":"Business"
+    },{
+      "id":"politics/election2001",
+      "type":"keyword",
+      "webTitle":"UK general election 2001",
+      "webUrl":"http://www.theguardian.com/politics/election2001",
+      "apiUrl":"http://content.guardianapis.com/politics/election2001",
+      "sectionId":"politics",
+      "sectionName":"Politics"
+    },{
+      "id":"politics/general-election-2015",
+      "type":"keyword",
+      "webTitle":"General election 2015",
+      "webUrl":"http://www.theguardian.com/politics/general-election-2015",
+      "apiUrl":"http://content.guardianapis.com/politics/general-election-2015",
+      "sectionId":"politics",
+      "sectionName":"Politics"
+    },{
+      "id":"politics/election2005",
+      "type":"keyword",
+      "webTitle":"UK general election 2005",
+      "webUrl":"http://www.theguardian.com/politics/election2005",
+      "apiUrl":"http://content.guardianapis.com/politics/election2005",
+      "sectionId":"politics",
+      "sectionName":"Politics"
+    },{
+      "id":"media/dmgt",
+      "type":"keyword",
+      "webTitle":"Daily Mail & General Trust",
+      "webUrl":"http://www.theguardian.com/media/dmgt",
+      "apiUrl":"http://content.guardianapis.com/media/dmgt",
+      "sectionId":"media",
+      "sectionName":"Media"
+    },{
+      "id":"business/britishempiresecuritiesgeneraltrust",
+      "type":"keyword",
+      "webTitle":"British Empire Securities & General Trust",
+      "webUrl":"http://www.theguardian.com/business/britishempiresecuritiesgeneraltrust",
+      "apiUrl":"http://content.guardianapis.com/business/britishempiresecuritiesgeneraltrust",
+      "sectionId":"business",
+      "sectionName":"Business"
+    }]
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "response":{
+    "status":"ok",
+    "userTier":"internal",
+    "total":56,
+    "startIndex":1,
+    "pageSize":50,
+    "currentPage":1,
+    "pages":2,
+    "results":[{
+      "id":"education/politics",
+      "type":"keyword",
+      "webTitle":"Politics",
+      "webUrl":"http://www.theguardian.com/education/politics",
+      "apiUrl":"http://content.guardianapis.com/education/politics",
+      "sectionId":"education",
+      "sectionName":"Education"
+    },{
+      "id":"books/politics",
+      "type":"keyword",
+      "webTitle":"Politics",
+      "webUrl":"http://www.theguardian.com/books/politics",
+      "apiUrl":"http://content.guardianapis.com/books/politics",
+      "sectionId":"books",
+      "sectionName":"Books"
+    },{
+      "id":"politics/politics",
+      "type":"keyword",
+      "webTitle":"Politics",
+      "webUrl":"http://www.theguardian.com/politics/politics",
+      "apiUrl":"http://content.guardianapis.com/politics/politics",
+      "sectionId":"politics",
+      "sectionName":"Politics"
+    },{
+      "id":"politics/wales",
+      "type":"keyword",
+      "webTitle":"Welsh politics",
+      "webUrl":"http://www.theguardian.com/politics/wales",
+      "apiUrl":"http://content.guardianapis.com/politics/wales",
+      "sectionId":"politics",
+      "sectionName":"Politics"
+    },{
+      "id":"open-platform/politics",
+      "type":"keyword",
+      "webTitle":"Politics Apps",
+      "webUrl":"http://www.theguardian.com/open-platform/politics",
+      "apiUrl":"http://content.guardianapis.com/open-platform/politics",
+      "sectionId":"open-platform",
+      "sectionName":"Open Platform"
+    },{
+      "id":"tv-and-radio/politics-tv",
+      "type":"keyword",
+      "webTitle":"Politics TV",
+      "webUrl":"http://www.theguardian.com/tv-and-radio/politics-tv",
+      "apiUrl":"http://content.guardianapis.com/tv-and-radio/politics-tv",
+      "sectionId":"tv-and-radio",
+      "sectionName":"Television &amp; radio"
+    },{
+      "id":"world/australian-politics",
+      "type":"keyword",
+      "webTitle":"Australian politics",
+      "webUrl":"http://www.theguardian.com/world/australian-politics",
+      "apiUrl":"http://content.guardianapis.com/world/australian-politics",
+      "sectionId":"world",
+      "sectionName":"World news"
+    },{
+      "id":"voluntary-sector-network/policy-and-politics",
+      "type":"keyword",
+      "webTitle":"Policy and politics",
+      "webUrl":"http://www.theguardian.com/voluntary-sector-network/policy-and-politics",
+      "apiUrl":"http://content.guardianapis.com/voluntary-sector-network/policy-and-politics",
+      "sectionId":"voluntary-sector-network",
+      "sectionName":"Voluntary Sector Network"
+    },{
+      "id":"world/queensland-politics",
+      "type":"keyword",
+      "webTitle":"Queensland politics",
+      "webUrl":"http://www.theguardian.com/world/queensland-politics",
+      "apiUrl":"http://content.guardianapis.com/world/queensland-politics",
+      "sectionId":"world",
+      "sectionName":"World news"
+    },{
+      "id":"politics/scotland",
+      "type":"keyword",
+      "webTitle":"Scottish politics",
+      "webUrl":"http://www.theguardian.com/politics/scotland",
+      "apiUrl":"http://content.guardianapis.com/politics/scotland",
+      "sectionId":"politics",
+      "sectionName":"Politics"
+    },{
+      "id":"politics/london",
+      "type":"keyword",
+      "webTitle":"London politics",
+      "webUrl":"http://www.theguardian.com/politics/london",
+      "apiUrl":"http://content.guardianapis.com/politics/london",
+      "sectionId":"politics",
+      "sectionName":"Politics"
+    },{
+      "id":"football/footballpolitics",
+      "type":"keyword",
+      "webTitle":"Football politics",
+      "webUrl":"http://www.theguardian.com/football/footballpolitics",
+      "apiUrl":"http://content.guardianapis.com/football/footballpolitics",
+      "sectionId":"football",
+      "sectionName":"Football"
+    },{
+      "id":"sport/sport-politics",
+      "type":"keyword",
+      "webTitle":"Sport politics",
+      "webUrl":"http://www.theguardian.com/sport/sport-politics",
+      "apiUrl":"http://content.guardianapis.com/sport/sport-politics",
+      "sectionId":"sport",
+      "sectionName":"Sport"
+    },{
+      "id":"technology/politics",
+      "type":"keyword",
+      "webTitle":"Politics and technology",
+      "webUrl":"http://www.theguardian.com/technology/politics",
+      "apiUrl":"http://content.guardianapis.com/technology/politics",
+      "sectionId":"technology",
+      "sectionName":"Technology"
+    },{
+      "id":"education/studentpolitics",
+      "type":"keyword",
+      "webTitle":"Student politics",
+      "webUrl":"http://www.theguardian.com/education/studentpolitics",
+      "apiUrl":"http://content.guardianapis.com/education/studentpolitics",
+      "sectionId":"education",
+      "sectionName":"Education"
+    },{
+      "id":"politics/women",
+      "type":"keyword",
+      "webTitle":"Women in politics",
+      "webUrl":"http://www.theguardian.com/politics/women",
+      "apiUrl":"http://content.guardianapis.com/politics/women",
+      "sectionId":"politics",
+      "sectionName":"Politics"
+    },{
+      "id":"society/identity-politics",
+      "type":"keyword",
+      "webTitle":"Identity politics",
+      "webUrl":"http://www.theguardian.com/society/identity-politics",
+      "apiUrl":"http://content.guardianapis.com/society/identity-politics",
+      "sectionId":"society",
+      "sectionName":"Society"
+    },{
+      "id":"politics/localgovernment",
+      "type":"keyword",
+      "webTitle":"Local politics",
+      "webUrl":"http://www.theguardian.com/politics/localgovernment",
+      "apiUrl":"http://content.guardianapis.com/politics/localgovernment",
+      "sectionId":"politics",
+      "sectionName":"Politics"
+    },{
+      "id":"world/us-politics",
+      "type":"keyword",
+      "webTitle":"US politics",
+      "webUrl":"http://www.theguardian.com/world/us-politics",
+      "apiUrl":"http://content.guardianapis.com/world/us-politics",
+      "sectionId":"world",
+      "sectionName":"World news"
+    },{
+      "id":"katine/politicsandhistory",
+      "type":"keyword",
+      "webTitle":"Politics and history",
+      "webUrl":"http://www.theguardian.com/katine/politicsandhistory",
+      "apiUrl":"http://content.guardianapis.com/katine/politicsandhistory",
+      "sectionId":"katine",
+      "sectionName":"Katine"
+    },{
+      "id":"environment/green-politics",
+      "type":"keyword",
+      "webTitle":"Green politics",
+      "webUrl":"http://www.theguardian.com/environment/green-politics",
+      "apiUrl":"http://content.guardianapis.com/environment/green-politics",
+      "sectionId":"environment",
+      "sectionName":"Environment"
+    },{
+      "id":"politics/past",
+      "type":"keyword",
+      "webTitle":"Politics past",
+      "webUrl":"http://www.theguardian.com/politics/past",
+      "apiUrl":"http://content.guardianapis.com/politics/past",
+      "sectionId":"politics",
+      "sectionName":"Politics"
+    },{
+      "id":"world/victorian-politics",
+      "type":"keyword",
+      "webTitle":"Victorian politics",
+      "webUrl":"http://www.theguardian.com/world/victorian-politics",
+      "apiUrl":"http://content.guardianapis.com/world/victorian-politics",
+      "sectionId":"world",
+      "sectionName":"World news"
+    },{
+      "id":"government-computing-network/devolved",
+      "type":"keyword",
+      "webTitle":"Devolved government",
+      "webUrl":"http://www.theguardian.com/government-computing-network/devolved",
+      "apiUrl":"http://content.guardianapis.com/government-computing-network/devolved",
+      "sectionId":"government-computing-network",
+      "sectionName":"Guardian Government Computing"
+    },{
+      "id":"government-computing-network/local-government",
+      "type":"keyword",
+      "webTitle":"Local government",
+      "webUrl":"http://www.theguardian.com/government-computing-network/local-government",
+      "apiUrl":"http://content.guardianapis.com/government-computing-network/local-government",
+      "sectionId":"government-computing-network",
+      "sectionName":"Guardian Government Computing"
+    },{
+      "id":"public-leaders-network/government-communications",
+      "type":"keyword",
+      "webTitle":"Government communications",
+      "webUrl":"http://www.theguardian.com/public-leaders-network/government-communications",
+      "apiUrl":"http://content.guardianapis.com/public-leaders-network/government-communications",
+      "sectionId":"public-leaders-network",
+      "sectionName":"Public Leaders Network"
+    },{
+      "id":"society/localgovernment",
+      "type":"keyword",
+      "webTitle":"Local government",
+      "webUrl":"http://www.theguardian.com/society/localgovernment",
+      "apiUrl":"http://content.guardianapis.com/society/localgovernment",
+      "sectionId":"society",
+      "sectionName":"Society"
+    },{
+      "id":"public-leaders-network/local-government",
+      "type":"keyword",
+      "webTitle":"Local government",
+      "webUrl":"http://www.theguardian.com/public-leaders-network/local-government",
+      "apiUrl":"http://content.guardianapis.com/public-leaders-network/local-government",
+      "sectionId":"public-leaders-network",
+      "sectionName":"Public Leaders Network"
+    },{
+      "id":"politics/government-data",
+      "type":"keyword",
+      "webTitle":"Government data",
+      "webUrl":"http://www.theguardian.com/politics/government-data",
+      "apiUrl":"http://content.guardianapis.com/politics/government-data",
+      "sectionId":"politics",
+      "sectionName":"Politics"
+    },{
+      "id":"business/government-borrowing",
+      "type":"keyword",
+      "webTitle":"Government borrowing",
+      "webUrl":"http://www.theguardian.com/business/government-borrowing",
+      "apiUrl":"http://content.guardianapis.com/business/government-borrowing",
+      "sectionId":"business",
+      "sectionName":"Business"
+    },{
+      "id":"public-leaders-network/central-government",
+      "type":"keyword",
+      "webTitle":"Central government",
+      "webUrl":"http://www.theguardian.com/public-leaders-network/central-government",
+      "apiUrl":"http://content.guardianapis.com/public-leaders-network/central-government",
+      "sectionId":"public-leaders-network",
+      "sectionName":"Public Leaders Network"
+    },{
+      "id":"government-computing-network/central-government",
+      "type":"keyword",
+      "webTitle":"Central government",
+      "webUrl":"http://www.theguardian.com/government-computing-network/central-government",
+      "apiUrl":"http://content.guardianapis.com/government-computing-network/central-government",
+      "sectionId":"government-computing-network",
+      "sectionName":"Guardian Government Computing"
+    },{
+      "id":"politics/northernireland",
+      "type":"keyword",
+      "webTitle":"Northern Irish politics",
+      "webUrl":"http://www.theguardian.com/politics/northernireland",
+      "apiUrl":"http://content.guardianapis.com/politics/northernireland",
+      "sectionId":"politics",
+      "sectionName":"Politics"
+    },{
+      "id":"world/us-political-lobbying",
+      "type":"keyword",
+      "webTitle":"US political lobbying",
+      "webUrl":"http://www.theguardian.com/world/us-political-lobbying",
+      "apiUrl":"http://content.guardianapis.com/world/us-political-lobbying",
+      "sectionId":"world",
+      "sectionName":"World news"
+    },{
+      "id":"world/south-australian-politics",
+      "type":"keyword",
+      "webTitle":"South Australian politics",
+      "webUrl":"http://www.theguardian.com/world/south-australian-politics",
+      "apiUrl":"http://content.guardianapis.com/world/south-australian-politics",
+      "sectionId":"world",
+      "sectionName":"World news"
+    },{
+      "id":"world/new-south-wales-politics",
+      "type":"keyword",
+      "webTitle":"New South Wales politics",
+      "webUrl":"http://www.theguardian.com/world/new-south-wales-politics",
+      "apiUrl":"http://content.guardianapis.com/world/new-south-wales-politics",
+      "sectionId":"world",
+      "sectionName":"World news"
+    },{
+      "id":"world/us-political-financing",
+      "type":"keyword",
+      "webTitle":"US political financing",
+      "webUrl":"http://www.theguardian.com/world/us-political-financing",
+      "apiUrl":"http://content.guardianapis.com/world/us-political-financing",
+      "sectionId":"world",
+      "sectionName":"World news"
+    },{
+      "id":"business/usgovernmentborrowing",
+      "type":"keyword",
+      "webTitle":"US Government borrowing",
+      "webUrl":"http://www.theguardian.com/business/usgovernmentborrowing",
+      "apiUrl":"http://content.guardianapis.com/business/usgovernmentborrowing",
+      "sectionId":"business",
+      "sectionName":"Business"
+    },{
+      "id":"politics/welsh-assembly-government",
+      "type":"keyword",
+      "webTitle":"Welsh assembly government",
+      "webUrl":"http://www.theguardian.com/politics/welsh-assembly-government",
+      "apiUrl":"http://content.guardianapis.com/politics/welsh-assembly-government",
+      "sectionId":"politics",
+      "sectionName":"Politics"
+    },{
+      "id":"public-sector-training/public-sector-training",
+      "type":"keyword",
+      "webTitle":"National School of Government",
+      "webUrl":"http://www.theguardian.com/public-sector-training/public-sector-training",
+      "apiUrl":"http://content.guardianapis.com/public-sector-training/public-sector-training",
+      "sectionId":"public-sector-training",
+      "sectionName":"Public sector training"
+    },{
+      "id":"select/select-local-government",
+      "type":"keyword",
+      "webTitle":"Select Local Government",
+      "webUrl":"http://www.theguardian.com/select/select-local-government",
+      "apiUrl":"http://content.guardianapis.com/select/select-local-government",
+      "sectionId":"select",
+      "sectionName":"Select"
+    },{
+      "id":"local-government-network/local-government-network-blog",
+      "type":"keyword",
+      "webTitle":"Local government network blog",
+      "webUrl":"http://www.theguardian.com/local-government-network/local-government-network-blog",
+      "apiUrl":"http://content.guardianapis.com/local-government-network/local-government-network-blog",
+      "sectionId":"local-government-network",
+      "sectionName":"Local Leaders Network"
+    },{
+      "id":"public-leaders-network/open-government-brasilia-2012",
+      "type":"keyword",
+      "webTitle":"Open government: Brasilia 2012",
+      "webUrl":"http://www.theguardian.com/public-leaders-network/open-government-brasilia-2012",
+      "apiUrl":"http://content.guardianapis.com/public-leaders-network/open-government-brasilia-2012",
+      "sectionId":"public-leaders-network",
+      "sectionName":"Public Leaders Network"
+    },{
+      "id":"local-government-network-serco-partner-zone/serco-local-government",
+      "type":"keyword",
+      "webTitle":"Serco local government",
+      "webUrl":"http://www.theguardian.com/local-government-network-serco-partner-zone/serco-local-government",
+      "apiUrl":"http://content.guardianapis.com/local-government-network-serco-partner-zone/serco-local-government",
+      "sectionId":"local-government-network-serco-partner-zone",
+      "sectionName":"Local government network - Serco partner zone"
+    },{
+      "id":"public-leaders-network/international-open-government",
+      "type":"keyword",
+      "webTitle":"International open government",
+      "webUrl":"http://www.theguardian.com/public-leaders-network/international-open-government",
+      "apiUrl":"http://content.guardianapis.com/public-leaders-network/international-open-government",
+      "sectionId":"public-leaders-network",
+      "sectionName":"Public Leaders Network"
+    },{
+      "id":"world/us-government-shutdown-2013",
+      "type":"keyword",
+      "webTitle":"US government shutdown 2013",
+      "webUrl":"http://www.theguardian.com/world/us-government-shutdown-2013",
+      "apiUrl":"http://content.guardianapis.com/world/us-government-shutdown-2013",
+      "sectionId":"world",
+      "sectionName":"World news"
+    },{
+      "id":"technology/e-government",
+      "type":"keyword",
+      "webTitle":"e-Government",
+      "webUrl":"http://www.theguardian.com/technology/e-government",
+      "apiUrl":"http://content.guardianapis.com/technology/e-government",
+      "sectionId":"technology",
+      "sectionName":"Technology"
+    },{
+      "id":"local-government-network/local-government-heroes",
+      "type":"keyword",
+      "webTitle":"Local government heroes",
+      "webUrl":"http://www.theguardian.com/local-government-network/local-government-heroes",
+      "apiUrl":"http://content.guardianapis.com/local-government-network/local-government-heroes",
+      "sectionId":"local-government-network",
+      "sectionName":"Local Leaders Network"
+    },{
+      "id":"government-computing-network/government-computing-network",
+      "type":"keyword",
+      "webTitle":"Guardian Government Computing",
+      "webUrl":"http://www.theguardian.com/government-computing-network/government-computing-network",
+      "apiUrl":"http://content.guardianapis.com/government-computing-network/government-computing-network",
+      "sectionId":"government-computing-network",
+      "sectionName":"Guardian Government Computing"
+    },{
+      "id":"local-government-network/local-government-careers",
+      "type":"keyword",
+      "webTitle":"Local government careers",
+      "webUrl":"http://www.theguardian.com/local-government-network/local-government-careers",
+      "apiUrl":"http://content.guardianapis.com/local-government-network/local-government-careers",
+      "sectionId":"local-government-network",
+      "sectionName":"Local Leaders Network"
+    }]
+  }
+}

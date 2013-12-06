@@ -1,0 +1,412 @@
+{
+  "response":{
+    "status":"ok",
+    "userTier":"internal",
+    "total":73,
+    "startIndex":1,
+    "pageSize":50,
+    "currentPage":1,
+    "pages":2,
+    "results":[{
+      "id":"healthcare-network/social-care",
+      "type":"keyword",
+      "webTitle":"Social care",
+      "webUrl":"http://www.theguardian.com/healthcare-network/social-care",
+      "apiUrl":"http://content.guardianapis.com/healthcare-network/social-care",
+      "sectionId":"healthcare-network",
+      "sectionName":"Healthcare Professionals Network"
+    },{
+      "id":"society/social-care",
+      "type":"keyword",
+      "webTitle":"Social care",
+      "webUrl":"http://www.theguardian.com/society/social-care",
+      "apiUrl":"http://content.guardianapis.com/society/social-care",
+      "sectionId":"society",
+      "sectionName":"Society"
+    },{
+      "id":"local-government-network/social-care-local-government",
+      "type":"keyword",
+      "webTitle":"Social care",
+      "webUrl":"http://www.theguardian.com/local-government-network/social-care-local-government",
+      "apiUrl":"http://content.guardianapis.com/local-government-network/social-care-local-government",
+      "sectionId":"local-government-network",
+      "sectionName":"Local Leaders Network"
+    },{
+      "id":"select/select-social-care",
+      "type":"keyword",
+      "webTitle":"Select Social Care",
+      "webUrl":"http://www.theguardian.com/select/select-social-care",
+      "apiUrl":"http://content.guardianapis.com/select/select-social-care",
+      "sectionId":"select",
+      "sectionName":"Select"
+    },{
+      "id":"public-leaders-network/health-and-social-care",
+      "type":"keyword",
+      "webTitle":"Health and social care",
+      "webUrl":"http://www.theguardian.com/public-leaders-network/health-and-social-care",
+      "apiUrl":"http://content.guardianapis.com/public-leaders-network/health-and-social-care",
+      "sectionId":"public-leaders-network",
+      "sectionName":"Public Leaders Network"
+    },{
+      "id":"social-care-conference/social-care-conference",
+      "type":"keyword",
+      "webTitle":"Social care conference",
+      "webUrl":"http://www.theguardian.com/social-care-conference/social-care-conference",
+      "apiUrl":"http://content.guardianapis.com/social-care-conference/social-care-conference",
+      "sectionId":"social-care-conference",
+      "sectionName":"Social care conference"
+    },{
+      "id":"social-care-careers/social-care-careers",
+      "type":"keyword",
+      "webTitle":"Social care careers",
+      "webUrl":"http://www.theguardian.com/social-care-careers/social-care-careers",
+      "apiUrl":"http://content.guardianapis.com/social-care-careers/social-care-careers",
+      "sectionId":"social-care-careers",
+      "sectionName":"Social care careers"
+    },{
+      "id":"social-care-network/social-care-network",
+      "type":"keyword",
+      "webTitle":"Social Care Network",
+      "webUrl":"http://www.theguardian.com/social-care-network/social-care-network",
+      "apiUrl":"http://content.guardianapis.com/social-care-network/social-care-network",
+      "sectionId":"social-care-network",
+      "sectionName":"Social Care Network"
+    },{
+      "id":"social-care-network-skills-for-care-partner-zone/social-care-network-skills-for-care-partner-zone",
+      "type":"keyword",
+      "webTitle":"Social Care Network - Skills for Care partner zone",
+      "webUrl":"http://www.theguardian.com/social-care-network-skills-for-care-partner-zone/social-care-network-skills-for-care-partner-zone",
+      "apiUrl":"http://content.guardianapis.com/social-care-network-skills-for-care-partner-zone/social-care-network-skills-for-care-partner-zone",
+      "sectionId":"social-care-network/skills-for-care-partner-zone",
+      "sectionName":"Social Care Network - Skills for Care partner zone"
+    },{
+      "id":"society/carers",
+      "type":"keyword",
+      "webTitle":"Carers",
+      "webUrl":"http://www.theguardian.com/society/carers",
+      "apiUrl":"http://content.guardianapis.com/society/carers",
+      "sectionId":"society",
+      "sectionName":"Society"
+    },{
+      "id":"education/the-faculty-of-health-social-care-and-education-kingston-university-and-st-george-s-university-of-london",
+      "type":"keyword",
+      "webTitle":"The faculty of health, social care and education, Kingston University and St George's, University of London",
+      "webUrl":"http://www.theguardian.com/education/the-faculty-of-health-social-care-and-education-kingston-university-and-st-george-s-university-of-london",
+      "apiUrl":"http://content.guardianapis.com/education/the-faculty-of-health-social-care-and-education-kingston-university-and-st-george-s-university-of-london",
+      "sectionId":"education",
+      "sectionName":"Education"
+    },{
+      "id":"society/young-carers",
+      "type":"keyword",
+      "webTitle":"Young carers",
+      "webUrl":"http://www.theguardian.com/society/young-carers",
+      "apiUrl":"http://content.guardianapis.com/society/young-carers",
+      "sectionId":"society",
+      "sectionName":"Society"
+    },{
+      "id":"care-international/care-international",
+      "type":"keyword",
+      "webTitle":"Care International",
+      "webUrl":"http://www.theguardian.com/care-international/care-international",
+      "apiUrl":"http://content.guardianapis.com/care-international/care-international",
+      "sectionId":"care-international",
+      "sectionName":"DO NOT USE Care International"
+    },{
+      "id":"caringcapitalism/caringcapitalism",
+      "type":"keyword",
+      "webTitle":"Caring capitalism",
+      "webUrl":"http://www.theguardian.com/caringcapitalism/caringcapitalism",
+      "apiUrl":"http://content.guardianapis.com/caringcapitalism/caringcapitalism",
+      "sectionId":"caringcapitalism",
+      "sectionName":"Caring capitalism"
+    },{
+      "id":"lend-with-care/lend-with-care",
+      "type":"keyword",
+      "webTitle":"Lend With Care",
+      "webUrl":"http://www.theguardian.com/lend-with-care/lend-with-care",
+      "apiUrl":"http://content.guardianapis.com/lend-with-care/lend-with-care",
+      "sectionId":"lend-with-care",
+      "sectionName":"Lend With Care"
+    },{
+      "id":"media/richardcaring",
+      "type":"keyword",
+      "webTitle":"Richard Caring",
+      "webUrl":"http://www.theguardian.com/media/richardcaring",
+      "apiUrl":"http://content.guardianapis.com/media/richardcaring",
+      "sectionId":"media",
+      "sectionName":"Media"
+    },{
+      "id":"housing-network/housing-and-care",
+      "type":"keyword",
+      "webTitle":"Housing and care",
+      "webUrl":"http://www.theguardian.com/housing-network/housing-and-care",
+      "apiUrl":"http://content.guardianapis.com/housing-network/housing-and-care",
+      "sectionId":"housing-network",
+      "sectionName":"Housing Network"
+    },{
+      "id":"society/care-workers",
+      "type":"keyword",
+      "webTitle":"Care workers",
+      "webUrl":"http://www.theguardian.com/society/care-workers",
+      "apiUrl":"http://content.guardianapis.com/society/care-workers",
+      "sectionId":"society",
+      "sectionName":"Society"
+    },{
+      "id":"society/socialexclusion",
+      "type":"keyword",
+      "webTitle":"Social exclusion",
+      "webUrl":"http://www.theguardian.com/society/socialexclusion",
+      "apiUrl":"http://content.guardianapis.com/society/socialexclusion",
+      "sectionId":"society",
+      "sectionName":"Society"
+    },{
+      "id":"sustainable-business/social-media",
+      "type":"keyword",
+      "webTitle":"Social media",
+      "webUrl":"http://www.theguardian.com/sustainable-business/social-media",
+      "apiUrl":"http://content.guardianapis.com/sustainable-business/social-media",
+      "sectionId":"sustainable-business",
+      "sectionName":"Guardian Sustainable Business"
+    },{
+      "id":"education/socialwork",
+      "type":"keyword",
+      "webTitle":"Social work",
+      "webUrl":"http://www.theguardian.com/education/socialwork",
+      "apiUrl":"http://content.guardianapis.com/education/socialwork",
+      "sectionId":"education",
+      "sectionName":"Education"
+    },{
+      "id":"sustainable-business/social-impact",
+      "type":"keyword",
+      "webTitle":"Social Impact",
+      "webUrl":"http://www.theguardian.com/sustainable-business/social-impact",
+      "apiUrl":"http://content.guardianapis.com/sustainable-business/social-impact",
+      "sectionId":"sustainable-business",
+      "sectionName":"Guardian Sustainable Business"
+    },{
+      "id":"media/social-media",
+      "type":"keyword",
+      "webTitle":"Social media",
+      "webUrl":"http://www.theguardian.com/media/social-media",
+      "apiUrl":"http://content.guardianapis.com/media/social-media",
+      "sectionId":"media",
+      "sectionName":"Media"
+    },{
+      "id":"local-government-network/social-work-local-government-network",
+      "type":"keyword",
+      "webTitle":"Social work",
+      "webUrl":"http://www.theguardian.com/local-government-network/social-work-local-government-network",
+      "apiUrl":"http://content.guardianapis.com/local-government-network/social-work-local-government-network",
+      "sectionId":"local-government-network",
+      "sectionName":"Local Leaders Network"
+    },{
+      "id":"global-development/social-protection",
+      "type":"keyword",
+      "webTitle":"Social protection",
+      "webUrl":"http://www.theguardian.com/global-development/social-protection",
+      "apiUrl":"http://content.guardianapis.com/global-development/social-protection",
+      "sectionId":"global-development",
+      "sectionName":"Global development"
+    },{
+      "id":"society/socialmobility",
+      "type":"keyword",
+      "webTitle":"Social mobility",
+      "webUrl":"http://www.theguardian.com/society/socialmobility",
+      "apiUrl":"http://content.guardianapis.com/society/socialmobility",
+      "sectionId":"society",
+      "sectionName":"Society"
+    },{
+      "id":"society/social-trends",
+      "type":"keyword",
+      "webTitle":"Social trends",
+      "webUrl":"http://www.theguardian.com/society/social-trends",
+      "apiUrl":"http://content.guardianapis.com/society/social-trends",
+      "sectionId":"society",
+      "sectionName":"Society"
+    },{
+      "id":"higher-education-network/social-media",
+      "type":"keyword",
+      "webTitle":"Social media",
+      "webUrl":"http://www.theguardian.com/higher-education-network/social-media",
+      "apiUrl":"http://content.guardianapis.com/higher-education-network/social-media",
+      "sectionId":"higher-education-network",
+      "sectionName":"Higher Education Network"
+    },{
+      "id":"social-enterprise-network/social-investment",
+      "type":"keyword",
+      "webTitle":"Social investment",
+      "webUrl":"http://www.theguardian.com/social-enterprise-network/social-investment",
+      "apiUrl":"http://content.guardianapis.com/social-enterprise-network/social-investment",
+      "sectionId":"social-enterprise-network",
+      "sectionName":"Social Enterprise Network"
+    },{
+      "id":"society/social-housing",
+      "type":"keyword",
+      "webTitle":"Social housing",
+      "webUrl":"http://www.theguardian.com/society/social-housing",
+      "apiUrl":"http://content.guardianapis.com/society/social-housing",
+      "sectionId":"society",
+      "sectionName":"Society"
+    },{
+      "id":"society/socialenterprises",
+      "type":"keyword",
+      "webTitle":"Social enterprises",
+      "webUrl":"http://www.theguardian.com/society/socialenterprises",
+      "apiUrl":"http://content.guardianapis.com/society/socialenterprises",
+      "sectionId":"society",
+      "sectionName":"Society"
+    },{
+      "id":"education/socialsciences",
+      "type":"keyword",
+      "webTitle":"Social sciences",
+      "webUrl":"http://www.theguardian.com/education/socialsciences",
+      "apiUrl":"http://content.guardianapis.com/education/socialsciences",
+      "sectionId":"education",
+      "sectionName":"Education"
+    },{
+      "id":"society/social-history",
+      "type":"keyword",
+      "webTitle":"Social history",
+      "webUrl":"http://www.theguardian.com/society/social-history",
+      "apiUrl":"http://content.guardianapis.com/society/social-history",
+      "sectionId":"society",
+      "sectionName":"Society"
+    },{
+      "id":"media/socialnetworking",
+      "type":"keyword",
+      "webTitle":"Social networking",
+      "webUrl":"http://www.theguardian.com/media/socialnetworking",
+      "apiUrl":"http://content.guardianapis.com/media/socialnetworking",
+      "sectionId":"media",
+      "sectionName":"Media"
+    },{
+      "id":"healthcare-network/hospitals-and-acute-care",
+      "type":"keyword",
+      "webTitle":"Hospitals and acute care",
+      "webUrl":"http://www.theguardian.com/healthcare-network/hospitals-and-acute-care",
+      "apiUrl":"http://content.guardianapis.com/healthcare-network/hospitals-and-acute-care",
+      "sectionId":"healthcare-network",
+      "sectionName":"Healthcare Professionals Network"
+    },{
+      "id":"society/care-quality-commission",
+      "type":"keyword",
+      "webTitle":"Care Quality Commission (CQC)",
+      "webUrl":"http://www.theguardian.com/society/care-quality-commission",
+      "apiUrl":"http://content.guardianapis.com/society/care-quality-commission",
+      "sectionId":"society",
+      "sectionName":"Society"
+    },{
+      "id":"careconference/careconference",
+      "type":"keyword",
+      "webTitle":"Care for older people",
+      "webUrl":"http://www.theguardian.com/careconference/careconference",
+      "apiUrl":"http://content.guardianapis.com/careconference/careconference",
+      "sectionId":"careconference",
+      "sectionName":"Care for older people"
+    },{
+      "id":"society/longtermcare",
+      "type":"keyword",
+      "webTitle":"Long-term care",
+      "webUrl":"http://www.theguardian.com/society/longtermcare",
+      "apiUrl":"http://content.guardianapis.com/society/longtermcare",
+      "sectionId":"society",
+      "sectionName":"Society"
+    },{
+      "id":"books/devil-may-care",
+      "type":"keyword",
+      "webTitle":"Devil May Care",
+      "webUrl":"http://www.theguardian.com/books/devil-may-care",
+      "apiUrl":"http://content.guardianapis.com/books/devil-may-care",
+      "sectionId":"books",
+      "sectionName":"Books"
+    },{
+      "id":"society/maggie-s-cancer-caring-centres",
+      "type":"keyword",
+      "webTitle":"Maggie's Cancer Caring Centres",
+      "webUrl":"http://www.theguardian.com/society/maggie-s-cancer-caring-centres",
+      "apiUrl":"http://content.guardianapis.com/society/maggie-s-cancer-caring-centres",
+      "sectionId":"society",
+      "sectionName":"Society"
+    },{
+      "id":"careandsupportreform/careandsupportreform",
+      "type":"keyword",
+      "webTitle":"Care and support reform",
+      "webUrl":"http://www.theguardian.com/careandsupportreform/careandsupportreform",
+      "apiUrl":"http://content.guardianapis.com/careandsupportreform/careandsupportreform",
+      "sectionId":"careandsupportreform",
+      "sectionName":"Care and support reform"
+    },{
+      "id":"healthcare-network/gps-and-primary-care",
+      "type":"keyword",
+      "webTitle":"GPs and primary care",
+      "webUrl":"http://www.theguardian.com/healthcare-network/gps-and-primary-care",
+      "apiUrl":"http://content.guardianapis.com/healthcare-network/gps-and-primary-care",
+      "sectionId":"healthcare-network",
+      "sectionName":"Healthcare Professionals Network"
+    },{
+      "id":"socialenterprise/social-enterprise-speakers",
+      "type":"keyword",
+      "webTitle":"Social Enterprise Summit Speakers",
+      "webUrl":"http://www.theguardian.com/socialenterprise/social-enterprise-speakers",
+      "apiUrl":"http://content.guardianapis.com/socialenterprise/social-enterprise-speakers",
+      "sectionId":"socialenterprise",
+      "sectionName":"Social enterprise"
+    },{
+      "id":"socialenterprise/socialenterprise",
+      "type":"keyword",
+      "webTitle":"Social Enterprise Summit",
+      "webUrl":"http://www.theguardian.com/socialenterprise/socialenterprise",
+      "apiUrl":"http://content.guardianapis.com/socialenterprise/socialenterprise",
+      "sectionId":"socialenterprise",
+      "sectionName":"Social enterprise"
+    },{
+      "id":"environment/corporatesocialresponsibility",
+      "type":"keyword",
+      "webTitle":"Corporate social responsibility",
+      "webUrl":"http://www.theguardian.com/environment/corporatesocialresponsibility",
+      "apiUrl":"http://content.guardianapis.com/environment/corporatesocialresponsibility",
+      "sectionId":"environment",
+      "sectionName":"Environment"
+    },{
+      "id":"socialenterprise/social-enterprise-2010",
+      "type":"keyword",
+      "webTitle":"Social Enterprise 2010",
+      "webUrl":"http://www.theguardian.com/socialenterprise/social-enterprise-2010",
+      "apiUrl":"http://content.guardianapis.com/socialenterprise/social-enterprise-2010",
+      "sectionId":"socialenterprise",
+      "sectionName":"Social enterprise"
+    },{
+      "id":"social-media-week-2012/social-media-week-2012",
+      "type":"keyword",
+      "webTitle":"Social Media Week 2012",
+      "webUrl":"http://www.theguardian.com/social-media-week-2012/social-media-week-2012",
+      "apiUrl":"http://content.guardianapis.com/social-media-week-2012/social-media-week-2012",
+      "sectionId":"social-media-week-2012",
+      "sectionName":"Social Media Week 2012"
+    },{
+      "id":"social-media-marketing/social-media-marketing",
+      "type":"keyword",
+      "webTitle":"Social media marketing",
+      "webUrl":"http://www.theguardian.com/social-media-marketing/social-media-marketing",
+      "apiUrl":"http://content.guardianapis.com/social-media-marketing/social-media-marketing",
+      "sectionId":"social-media-marketing",
+      "sectionName":"Social media marketing"
+    },{
+      "id":"technology/socialinnovationcamp",
+      "type":"keyword",
+      "webTitle":"Social innovation camp",
+      "webUrl":"http://www.theguardian.com/technology/socialinnovationcamp",
+      "apiUrl":"http://content.guardianapis.com/technology/socialinnovationcamp",
+      "sectionId":"technology",
+      "sectionName":"Technology"
+    },{
+      "id":"law/social-welfare-law",
+      "type":"keyword",
+      "webTitle":"Social welfare law",
+      "webUrl":"http://www.theguardian.com/law/social-welfare-law",
+      "apiUrl":"http://content.guardianapis.com/law/social-welfare-law",
+      "sectionId":"law",
+      "sectionName":"Law"
+    }]
+  }
+}
