@@ -1,11 +1,11 @@
 define([
     'knockout',
     'models/common',
-    'models/humanizedTimeSpan',
-    'models/authedAjax',
+    'js!humanized-time-span',
+    'modules/authedAjax',
     'models/article',
-    'models/contentApi',
-    'models/ophanApi'
+    'modules/contentApi',
+    'modules/ophanApi'
 ], function(
     ko,
     common,
@@ -17,13 +17,13 @@ define([
 ) {
     function Collection(opts) {
         var self = this;
-            
+
         if (!opts || !opts.id) { return; }
-        
+
         this.id = opts.id;
         this.response = null;
         this.groups = this.createGroups(opts.groups);
-        
+
         // properties from the config, about this collection
         this.configMeta   = common.util.asObservableProps([
             'displayName',
